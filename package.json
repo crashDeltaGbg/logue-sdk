@@ -1,0 +1,19 @@
+{
+  "name": "logue-sdk",
+  "version": "1.0.0",
+  "description": "[日本語](./README_ja.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crashDeltaGbg/logue-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crashDeltaGbg/logue-sdk/issues"
+  },
+  "homepage": "https://github.com/crashDeltaGbg/logue-sdk#readme"
+}
